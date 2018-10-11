@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Codelab 1",
+    "description": "Frontend development za početnike.",
+    "startTime": "10:00",
+    "speakerId": 1,
+    "category": "presentation"
+  },
+  {
+    "title": "Codelab 2",
+    "description": "Kako funkcionira IoT",
+    "startTime": "12:00",
+    "speakerId": 3,
+    "category": "presentation"
+  },
+  {
+    "title": "Codelab 3",
+    "description": "Progressive Web Apps",
+    "startTime": "14:00",
+    "speakerId": 2,
+    "category": "presentation"
+  },
+  {
+    "title": "Codelab 4",
+    "description": "Uvod u Magento 2 Shop sustav",
+    "startTime": "16:00",
+    "speakerId": 4,
+    "category": "presentation"
+  },
+  {
+    "title": "Afterparty 🎉🍻",
+    "description":
+      "Stay with us for the afterparty. Enjoy snacks and drinks while getting to know fellow PWA enthusiasts!",
+    "startTime": "18:00",
+    "category": "break"
+  }
+]

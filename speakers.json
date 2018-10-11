@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Igor Lončar",
+    "picture": "./img/speakers/igor.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Robert Badurina",
+    "picture": "./img/speakers/robert.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ante Medić",
+    "picture": "./img/speakers/ante.png"
+  },
+  {
+    "id": 4,
+    "name": "Vladimir Sedlar",
+    "picture": "./img/speakers/vladimir.png"
+  },
+  {
+    "id": 5,
+    "name": "Mladen Đurović",
+    "picture": "./img/speakers/mladen.jpeg"
+  }
+]
